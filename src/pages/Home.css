@@ -1,0 +1,12 @@
+.list-user{
+    padding: 15px;
+    width: '100%';
+    background-color: lightgreen;
+    text-align: center;
+    margin-bottom: 10;
+    display: flex;
+}
+
+.list-user:hover{
+    background-color: lightgrey;
+}
